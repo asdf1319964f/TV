@@ -77,7 +77,7 @@
                         "name": "🔞色最色",
                         "type": 3,
                         "api": "csp_XBPQ",
-                        "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
+                        "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
                         "ext": {
                                 "主页url": "https://xn--zovv42dba.com/",
                                 "直接播放": "1",
@@ -91,7 +91,7 @@
                         "name": "🔞亚瑟影库",
                         "type": 3,
                         "api": "csp_XBPQ",
-                        "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
+                        "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
                         "ext": {
                                 "主页url": "https://www.yasetube.com/",
                                 "直接播放": "1",
@@ -105,7 +105,7 @@
                         "name": "🔞222cuo",
                         "type": 3,
                         "api": "csp_XBPQ",
-                        "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
+                        "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
                         "ext": {
                                 "主页url": "http://224cuo.com/",
                                 "直接播放": "1",
@@ -143,7 +143,7 @@
                         "name": "🔞18j.tv",
                         "type": 3,
                         "api": "csp_XBPQ",
-                        "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
+                        "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
                         "ext": {
                                 "主页url": "https://18j.tv/",
                                 "直接播放": "1",
@@ -160,7 +160,7 @@
                         "name": "🔞爱豆传媒",
                         "type": 3,
                         "api": "csp_XBPQ",
-                        "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
+                        "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
                         "ext": {
                                 "主页url": "https://rourou.co/",
                                 "直接播放": "1",
@@ -178,7 +178,7 @@
                         "name": "🔞麻豆",
                         "type": 4,
                         "api": "https://demobe.serv00.net/madou.php",
-                        "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
+                        "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
                         "searchable": 1,
                         "quickSearch": 0,
                         "filterable": 0,
@@ -285,7 +285,7 @@
       "name": "sexbj|XBPQ",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
+      "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "style": {
         "type": "rect",
         "ratio": 1.5
@@ -304,7 +304,7 @@
       "name": "肉視頻|XBPQ",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
+      "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "ext": {
         "分类url": "https://rouvx2.xyz/t/{cateId}?order=createdAt&page={catePg}",
         "直接播放": "1",
@@ -334,7 +334,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "api": "csp_XBPQ",
-      "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
+      "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "style": {
         "ratio": 1.7
       },
@@ -350,7 +350,7 @@
       "name": "🔞ppp|fq",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
+      "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -397,7 +397,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/njav.json",
-      "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar"
+      "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar"
     },
     {
       "key": "Zuise",
@@ -421,7 +421,7 @@
       "filterable": 1,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
+      "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "ext": {
         "语言": "中文",
         "请求头": "手机",
@@ -447,7 +447,7 @@
 			"name": "🔞Hentai┃直连",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
+			"jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
 			"style": {
 				"type": "rect",
 				"ratio": 1.485
@@ -521,7 +521,7 @@
 				"type": "rect",
 				"ratio": 1.485
 			},
-			"jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
+			"jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
 			"ext": {
 				"数组": "class=\"col-6 col-sm-4 col-lg-3\">&&</div>",
 				"图片": "src=\"&&\"",
@@ -570,7 +570,7 @@
 			"key": "jable",
 			"name": "🔞jable┃在线",
 			"type": 3,
-			"jar": "https://2960.kstore.spachttps://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
+			"jar": "https://2960.kstore.spachttps://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
 			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url= ",
 			"changeable": 1,
 			"searchable": 1,
@@ -641,7 +641,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
+			"jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
 			"style": {
 				"type": "rect",
 				"ratio": 1.485
@@ -700,7 +700,7 @@
 			"name": "🔞U9A9┃磁力",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
+			"jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
 			"style": {
 				"type": "list"
 			},
@@ -725,7 +725,7 @@
 			"filterable": 1,
 			"playerType": 2,
 			"api": "csp_XBPQ",
-			"jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
+			"jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
 			"style": {
 				"type": "rect",
 				"ratio": 1.485
@@ -767,7 +767,7 @@
 			"name": "🔞玩偶┃在线",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "https://2960.kstore.spachttps://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
+			"jar": "https://2960.kstore.spachttps://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
 			"style": {
 				"type": "rect",
 				"ratio": 1.485
@@ -790,7 +790,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"api": "csp_XBPQ",
-			"jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
+			"jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
 			"style": {
 				"ratio": 1.7
 			},
@@ -806,7 +806,7 @@
 			"name": "🔞糖心┃直连",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
+			"jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
 			"style": {
 				"ratio": 1.7
 			},
@@ -827,7 +827,7 @@
 			"name": "🔞小草┃直连",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
+			"jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
@@ -848,7 +848,7 @@
 			"name": "🔞天美┃直连",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
+			"jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
 			"style": {
 				"ratio": 1.485
 			},
@@ -867,7 +867,7 @@
 			"name": "🔞仓库┃科学",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
+			"jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
 			"style": {
 				"ratio": 1.485
 			},
@@ -897,7 +897,7 @@
 			"name": "🔞ppp┃科学",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
+			"jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
 			"style": {
 				"type": "rect",
 				"ratio": 1.485
