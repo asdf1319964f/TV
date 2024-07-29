@@ -53,6 +53,22 @@
                 "分类": "FC2-PPV$FC2-PPV#日本無碼$JAV_Uncensored#馬賽克破壞$Mosaic_Removed#國產$Asian_Amateur#日本有碼$JAV_Censored#MGS動画$MGS#中文字幕$JAV+CHN.SUBs#動畫$Anime#歐美成人$Western_Porn#Korean BJ Dance$Korean_BJ_Dance#寫真$Adult_IDOL"
             }
         },
+	{
+            "key": "avge",
+            "name": "💗┃💋AVge┃💠",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+            "ext": {
+                "数组": "class=\"col-6 col-sm-4 col-lg-3 mb-3&&</a >"",
+                "直接播放": "1",
+                "主页url": "https://avgle.to/zh/",
+                "链接": "href=\"&&\"",
+                "图片": "src=\"&&\"",
+                "分类url": "https://rrrr.to/zh/vtype/{cateId}/label/{cateId}/actor/{cateId}-page-{catePg}",
+                "分类": "📚 最新上市$release# 優$index#最近更新$new#熱門影片$hot#影片分類$Categories#日本$Censored#日本無$Uncensored#PV$FPV#中文$JCH#破壞$Mosaic_Remove#動画$MGS#國$Asian_Amateur#歐美$Western_Porn#寫真特級$Adult_IDOL#動畫$Anime"
+            }
+        },
         {
             "key": "JAVSB",
             "name": "🔞JAVSB",
