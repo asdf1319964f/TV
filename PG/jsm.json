@@ -30,6 +30,24 @@
 				"ratio": 1.5
 			}
 		},
+		{"key": "JAVDAY",
+            "name": "🔞JAVDAY",
+            "type": 3,
+            "api": "csp_XBPQ",
+             "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+            "ext": {
+                "主页url": "https://javday.tv/",
+                "直接播放": "1",
+                "数组": "lazy loaded\"&&</a>",
+                "图片": "style=\"background-image: url(&&);\"",
+                "标题": "class=\"title\"&&</span>",
+                "副标题": "class=\"number\">&&</span>",
+                "简介": "title\"&&</span>",
+                "链接": "href=\"&&\"",
+                "分类url": "https://javday.tv/category/{cateId}/page/{catePg}/",
+                "分类": "新作上市$new-release#有碼$censored#國產AV$chinese-av#無碼流出$uncensored-leaked#糖心VLOG$txvlog#蘿莉社$luolisheus#HongKongDoll$hongkongdoll"
+            }
+        },
                 {
                         "key": "色最色",
                         "name": "🔞色最色",
