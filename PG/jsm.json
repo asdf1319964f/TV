@@ -31,12 +31,12 @@
 			}
 		},
 		{
-            "key": "avge",
-            "name": "💗┃💋AVge┃💠",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
-            "ext": {
+                "key": "avge",
+                "name": "💗┃💋AVge┃💠",
+                "type": 3,
+                "api": "csp_XBPQ",
+                "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+                "ext": {
                 "数组": "class=\"col-6 col-sm-4 col-lg-3 mb-3&&</a >"",
                 "直接播放": "1",
                 "主页url": "https://avgle.to/zh/",
