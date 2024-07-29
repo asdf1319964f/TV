@@ -30,6 +30,65 @@
 				"ratio": 1.5
 			}
 		},
+		{
+            "key": "18insta",
+            "name": "💗┃💋18insta┃💠",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+            "ext": {
+                "数组二次截取": "models\":[&&]",
+                "数组": "{&&}",
+                "图片": "previewUrlThumbBig:\"https+://static-cdn.strpst.com/+https://static-cdn.strpst.com/&&\"",
+                "标题": "username\":\"&&\"",
+                "副标题": "id\":\"&&\"",
+                "链接": "hlsPlaylist\":\"&&_+_480p.m3u8",
+                "分类url": "https://zh.18insta.com/api/front/models?primaryTag=girls&sortBy=viewersRating&userRole=guest&groupId=6&limit=20&filterGroupTags=[[\"tagLanguageChinese\"]]&{cateId};;m",
+                "直接播放": 1,
+                "播放请求头": "手机",
+                "分类": "中文$offset=0#中文2$offset=60#最新$autoTagNew"
+            }
+        },
+        {
+            "key": "RJAV",
+            "name": "💗┃💋RJAV┃💠",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jarXBPQ.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.77
+            },
+            "ext": {
+                "主页url": "https://rjav.tv/zh/",
+                "直接播放": "1",
+                "数组": "class=\"mb15\"&&</li>",
+                "图片": "src=\"&&\"",
+                "标题": "title=\"&&\"",
+                "链接": "href=\"&&\"",
+                "简介": "title>&&</title",
+                "主演": "name=\"keywords\" content=\"&&\"",
+                "分类url": "https://rjav.tv/zh/videotype/{cateId}-{catePg}/",
+                "分类": "FC2-PPV$FC2-PPV#日本無碼$JAV_Uncensored#馬賽克破壞$Mosaic_Removed#國產$Asian_Amateur#日本有碼$JAV_Censored#MGS動画$MGS#中文字幕$JAV+CHN.SUBs#動畫$Anime#歐美成人$Western_Porn#Korean BJ Dance$Korean_BJ_Dance#寫真$Adult_IDOL"
+            }
+        },
+        {
+            "key": "JAVSB",
+            "name": "🔞JAVSB",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+            "ext": {
+                "主页url": "https://jav.sb/",
+                "直接播放": "1",
+                "数组": "class=\"relative aspect-w-16 aspect-h-9 rounded overflow-hidden shadow-lg\"&&</div>",
+                "图片": "data-src=\"&&\"",
+                "标题": "alt=\"&&\"",
+                "链接": "href=\"&&\"",
+                "分类url": "https://jav.sb/javtype/{cateId}-{catePg}.html",
+                "分类": "日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#無碼破解$Mosaic_Removed#中文字幕$CHN_SUB#MGS動画$MGS#寫真$Adult_IDOL#國產$Asian_Amateur"
+            }
+        },
 		{"key": "JAVDAY",
             "name": "🔞JAVDAY",
             "type": 3,
