@@ -47,6 +47,30 @@
 				"ratio": 1.5
 			}
 		},
+  {
+            "key": "777电影网",
+            "name": "777电影网",
+            "type": 3,
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+            "ext": {
+                "主页url": "https://www.777dywtv.com/",
+                "副标题": "pic-text text-right\">&&</b>",
+                "图片": "data-original=\"&&\"",
+                "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "影片类型": "<div class=\"module-info-tag\">&&立即播放",
+                "线路数组": "href=\"#pane*\"&&</li>",
+                "线路标题": ">&&</a",
+                "导演": "导演：&&</div>",
+                "主演": "主演：&&</div>",
+                "分类": "电影$1#电视剧$2#动漫$3#综艺$4#短剧$11#纪录片$10#音乐$6#美图$7#有声小说$8",
+                "分类url": "https://www.777dywtv.com/whole/{cateId}_{area}___{year}___0_id_{cateId}.html"
+             }
+        },
 		{ "key": "桃子影院", "name": "桃子影院", "type":3,"api":"csp_XBPQ", "jar":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar", "ext": {"分类url":"https://ios.taozi007.com/show/{cateId}--------{catePg}---.html;;c"}},
 		{"key":"drpy_js_磁力熊","name":"磁力熊[js]|索引","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/js/cilixiongp.js","playerType":"1", "searchable":0, "quickSearch":0, "changeable":1,
 			"indexs":1
