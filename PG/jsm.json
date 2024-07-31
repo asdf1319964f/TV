@@ -34,7 +34,7 @@
       "key": "Theporn",
             "name": "🔞Theporn",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG//drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
@@ -42,7 +42,7 @@
                 "type": "rect",
                 "ratio": 1.5
             },
-            "ext": "./lib/theporn.js"
+            "ext": "":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/theporn.js"
         },
         {
             "key": "RJAV",
