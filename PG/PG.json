@@ -51,6 +51,7 @@
              "name":"🐛免费短剧",
              "type":3,
              "api":"csp_XBPQ",
+             "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
              "ext":{
              "搜索链接":"http://www.duanjutv.cc/vodsearch/{wd}----------{pg}---.html",
              "线路标题":"<h3*>&&</h3>",
