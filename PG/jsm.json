@@ -35,6 +35,7 @@
             "name": "🔞Theporn",
             "type": 3,
             "api": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/drpy2.min.js",
+	    "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
@@ -49,7 +50,7 @@
             "name": "💗┃💋RJAV┃💠",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jarXBPQ.jar",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
             "style": {
                 "type": "rect",
                 "ratio": 1.77
