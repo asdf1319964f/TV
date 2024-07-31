@@ -47,6 +47,18 @@
 				"ratio": 1.5
 			}
 		},
+  {"key":"免费短剧",
+             "name":"🐛免费短剧",
+             "type":3,
+             "api":"csp_XBPQ",
+             "ext":{
+             "搜索链接":"http://www.duanjutv.cc/vodsearch/{wd}----------{pg}---.html",
+             "线路标题":"<h3*>&&</h3>",
+             "线路数组":"\"more text-muted pull-right\">&&</ul>",
+             "播放数组":"\"more text-muted pull-right\">&&</ul>",
+             "播放链接":"http+://www.duanjutv.cc+href='&&'",
+             "分类url":"http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html",
+             "分类":"抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23"}},
 		{
             "key": "采集集合",
             "name": "采集集合",
