@@ -30,6 +30,20 @@
 				"ratio": 1.5
 			}
 		},
+      {
+      "key": "Theporn",
+            "name": "🔞Theporn",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": "./lib/theporn.js"
+        },
         {
             "key": "RJAV",
             "name": "💗┃💋RJAV┃💠",
