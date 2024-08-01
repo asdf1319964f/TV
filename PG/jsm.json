@@ -45,6 +45,29 @@
             },
             "ext": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/theporn.js"
         },
+    {
+    "key": "大白兔",
+    "name": "💗┃💋大白兔┃💠",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "./lib/XBPQ.jar",
+    "style": {
+        "type": "rect",
+        "ratio": 1.77
+    },
+    "ext": {
+        "主页url": "https://urcccg.dbtav9.today/cn/home/web/",
+        "直接播放": "1",
+        "数组": "class=\"thumb\"&&</div>",
+        "图片": "src=\"&&\"",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "简介": "span.desc&&",
+        "主演": "",
+        "分类url": "https://urcccg.dbtav9.today/cn/vodtype/{cateId}.html",
+        "分类": "国产精品$20#主播大秀$21#唯美视频$22#口交视频$23#日本有碼$24#日本無碼$25#动漫视频$26#欧美视频$27#日韩视频$28#欧美视频$29#动漫视频$30#伦理影片$31"
+    }
+},
         {
             "key": "RJAV",
             "name": "💗┃💋RJAV┃💠",
