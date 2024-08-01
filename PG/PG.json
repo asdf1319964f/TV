@@ -65,6 +65,15 @@
    "线路标题":"在线播放",
    "播放数组":"main-list-sections&&</div></div>",
    "分类url":"https://www.chrqj.com/vod/show/id/{cateId}/type/{class}/area/{area}/year/{year}/page/{catePg};;d0","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},
+     {
+      "key": "金鹰",
+      "name": "🦄金鹰┃资源",
+      "type": 1,
+      "searchable":1,
+      "quickSearch":0,
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json",
+      "playUrl":"json:http://api.suxun.site/api/delad?url="
+    },
 	  {
 	     "key":"免费短剧",
              "name":"🐛免费短剧",
