@@ -47,7 +47,7 @@
         },
     {
     "key": "大白兔",
-    "name": "💗┃💋大白兔┃💠",
+    "name": "🔞大白兔",
     "type": 3,
     "api": "csp_XBPQ",
     "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
@@ -70,7 +70,7 @@
 },
         {
             "key": "RJAV",
-            "name": "💗┃💋RJAV┃💠",
+            "name": "🔞RJAV",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
@@ -354,8 +354,8 @@
     },
     
         {  
-      "key": "rs",
-      "name": "肉視頻|XBPQ",
+      "key": "肉视频",
+      "name": "🔞肉視頻|XBPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
@@ -381,7 +381,7 @@
     },
     {
       "key": "麻豆",
-      "name": "麻豆",
+      "name": "🔞麻豆",
       "type": 3,
       "changeable": 1,
       "searchable": 1,
@@ -467,7 +467,7 @@
     },
     {
       "key": "AV搜①",
-      "name": "AV搜①",
+      "name": "🔞AV搜①",
       "type": 3,
       "changeable": 1,
       "searchable": 1,
