@@ -36,9 +36,6 @@
     "type": 3,
     "api": "csp_XBPQ",
     "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
-      //"searchable": 1,
-      //"quickSearch": 1,
-      //"filterable": 1,
     "ext": {
         "主页url": "https://dongman.anyaoshe4.top/",
        "直接播放": "1",
