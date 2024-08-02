@@ -35,7 +35,7 @@
     "name": "动漫之家",
     "type": 3,
     "api": "csp_XBPQ",
-    
+    "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
