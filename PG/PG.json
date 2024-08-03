@@ -55,7 +55,7 @@
             "searchable": 1,    
             "changeable": 1
 	},
-      { "key": "金牌影视", "name": "金牌影视", "type":3,"api":"csp_XBPQ", "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar", "ext": {"请求头": "User-Agent$MOBILE_UA",
+      { "key": "金牌影视", "name": "金牌影视", "type":3,"api":"csp_XBPQ", "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar", "ext": {"请求头": "User-Agent$MOBILE_UA",
 "编码": "UTF-8","简介":"小林子为您剧情介绍:+简介:</div>&&</div></div>",
    "数组":"content-card\">&&</div></div></a></div></div>",
   
@@ -79,7 +79,7 @@
              "name":"🐛免费短剧",
              "type":3,
              "api":"csp_XBPQ",
-             "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+             "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
              "ext":{
              "搜索链接":"http://www.duanjutv.cc/vodsearch/{wd}----------{pg}---.html",
              "线路标题":"<h3*>&&</h3>",
@@ -99,7 +99,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "csp_XBPQ",
-            "jar": "https://gh.cnacg.free.hr/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
             "ext": {
                 "主页url": "https://www.777dywtv.com/",
                 "副标题": "pic-text text-right\">&&</b>",
