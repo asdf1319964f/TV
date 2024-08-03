@@ -31,6 +31,21 @@
 			}
 		},
     {
+    "key": "playjav",
+    "name": "🔞playjav",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+    "ext": {
+        "主页url": "https://playav.tv/",
+        "直接播放": "1",
+        "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+        "类别": {},
+        "分类url": "https://playav.tv/category/{cateId}/page/{catePg}",
+        "分类": "中文有碼$chinese-censored#國產AV$chinese-model#SWAG$swag#N炮房$numbersex#國產視頻$chinese#日本無碼$uncensored#韓國$korean#歐美$sexy-babes#AV大平台$av-platform#類別$tags"
+    }
+},
+    {
     "key": "动漫之家",
     "name": "动漫之家",
     "type": 3,
