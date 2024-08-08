@@ -37,6 +37,7 @@
      "api": "csp_XBPQ",
      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
    "ext": {
+      "数组": "class=\"col-6 col-sm-4 col-lg-3 mb-3\"",
       "图片": "data-src=\"&&\"",
       "标题": "title=\"&&\"",
       "链接": "href=\"&&\"",
