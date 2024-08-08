@@ -47,6 +47,24 @@
 				"ratio": 1.5
 			}
 		},
+            {
+            "key": "爱你短剧",
+            "name": "💕爱你短剧",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "主页url": "https://ainidj.com/",
+                "数组": "\"module-item\"&&\"module-item\"",
+                "图片": "data-src=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "module-item-text\">&&</div>",
+                "链接": "href=\"&&\"",
+                "简介": "👀祝各位观影愉快！！！",
+                "播放数组": "\"module-blocklist\"&&\"shortcuts-mobile-overlay\"",
+                "分类url": "https://ainidj.com/vodtype/{cateId}-{catePg}.html",
+                "分类": "穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#玄幻$xuanhuan#言情$yanqing"
+            }
+        },
 	{
             "key": "采集集合",
             "name": "采集集合",
