@@ -31,6 +31,24 @@
       }
     },
     {
+     "key": "NiceTV820",
+     "name": "NiceTV820",
+     "type": 3,
+     "api": "csp_XBPQ",
+     "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+   "ext": {
+  //  "数组": "\"col-6 col-sm-4 col-lg-3 mb-3\"",
+      "图片": "data-src=\"&&\"",
+      "标题": "title=\"&&\"",
+      "链接": "href=\"&&\"",
+      "播放标题": "class=\"title\"",
+      "播放链接": "href=\"&&\"",
+      "直接播放": "1",
+      "分类": "探花AV$11#中文字幕$1#素人$15#国产AV$14#日本AV$3#日本有码$2",
+      "分类url": "https://www.nicetv820.cyou/index.php/vod/type/id/{cateId}/page/{catePg}.html"
+  }
+},
+    {
       "key": "动漫之家",
       "name": "动漫之家",
       "type": 3,
