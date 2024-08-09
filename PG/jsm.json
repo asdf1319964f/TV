@@ -31,22 +31,22 @@
       }
     },
     {
-    "key": "avjoy",
-    "name": "avjoy",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
-    "ext": {
-        "主页url": "https://avjoy.me/",
-"数组": "class=\"thumb-overlay\"&&",
-        "图片": "src=\"&&\"",
-        "标题": "title=\"&&\"",
-        "链接": "href=\"&&\"",
-        "播放标题": "",
-        "播放链接": "",
-        "直接播放": "1",
-        "分类": "Pornstar·AV$1#其他分类$2#中文字幕$中文字幕#素人$amateur#肛交$anal#动漫$anime#Asian$asian#巨乳$big-tits#中国$china#COSPLAY$cosplay#日本$japan#日本jav$jav#韩国$korea#熟女$mature#女优$pornstar#女子校生$schoolgirl#SM$sm#少女$teen#无修正$uncensored#人妻$wife", 
-        "分类url": "https://avjoy.me/videos/{cateId}/page/{catePg}.html"
+       "key": "avjoy",
+       "name": "avjoy",
+       "type": 3,
+       "api": "csp_XBPQ",
+       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+   "ext": {
+       "主页url": "https://avjoy.me/",
+       "数组": "class=\"thumb-overlay\"&&",
+       "图片": "src=\"&&\"",
+       "标题": "title=\"&&\"",
+       "链接": "href=\"&&\"",
+       "播放标题": "",
+       "播放链接": "",
+       "直接播放": "1",
+       "分类": "Pornstar·AV$1#其他分类$2#中文字幕$中文字幕#素人$amateur#肛交$anal#动漫$anime#Asian$asian#巨乳$big-tits#中国$china#COSPLAY$cosplay#日本$japan#日本jav$jav#韩国$korea#熟女$mature#女优$pornstar#女子校生$schoolgirl#SM$sm#少女$teen#无修正$uncensored#人妻$wife", 
+       "分类url": "https://avjoy.me/videos/{cateId}/page/{catePg}.html"
     }
 },
     {
