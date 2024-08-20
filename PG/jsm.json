@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/PG.jar",
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/PG.jar",
   "sites": [
     {
       "key": "网盘配置",
@@ -8,7 +8,7 @@
       "api": "csp_Config",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json"
     },
     {
       "key": "Youtube",
@@ -19,7 +19,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/youtube.json",
+        "json": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/youtube.json",
         "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
         "proxy": "proxy",
         "keywords": "wooang,排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
@@ -31,28 +31,10 @@
       }
     },
     {
-            "key": "avjoy",
-            "name": "avjoy",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
-            "ext": {
-                "主页url": "https://avjoy.me/",
-                "图片": "src=\"&&\"",
-                "标题": "title=\"&&\"",
-                "链接": "href=\"&&\"",
-                "播放标题": "",
-                "播放链接": "",
-                "直接播放": "1",
-                "分类": "中文字幕$中文字幕#素人$amateur#肛交$anal#动漫$anime#Asian$asian#巨乳$big-tits#中国$china#COSPLAY$cosplay#日本$japan#日本jav$jav#韩国$korea#熟女$mature#女优$pornstar#女子校生$schoolgirl#SM$sm#少女$teen#无修正$uncensored#人妻$wife",
-                "分类url": "https://avjoy.me/search/videos/{cateId}/page/{catePg}.html"
-            }
-        },
-    {
         "key": "AV影院",
         "name": "AV影院",
         "type": 3,
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
         "api": "csp_XBPQ",
         "searchable": 1,
         "quickSearch": 1,
@@ -71,7 +53,7 @@
         "name": "💗┃💋AV01┃💠",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+        "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
         "playerType": 2,
         "style": {
             "type": "rect",
@@ -95,7 +77,7 @@
     "name": "🔞🎥sexBJcam",
     "type": 3,
     "api": "csp_XBPQ",
-    "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+    "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
     "timeout": 120,
     "style": {
         "type": "rect",
@@ -114,7 +96,7 @@
             "name": "🔞绝美视频",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
             "style": {
                 "type": "rect",
                 "ratio": 1.5
@@ -130,7 +112,7 @@
       "name": "动漫之家",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "ext": {
         "主页url": "https://dongman.anyaoshe4.top/",
         "直接播放": "1",
@@ -145,8 +127,8 @@
       "key": "Theporn",
       "name": "🔞Theporn",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/drpy2.min.js",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/drpy2.min.js",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "searchable": 1,
       "changeable": 1,
       "timeout": 60,
@@ -154,14 +136,14 @@
         "type": "rect",
         "ratio": 1.5
       },
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/theporn.js"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/theporn.js"
     },
     {
       "key": "大白兔",
       "name": "🔞大白兔",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
       "style": {
         "type": "rect",
         "ratio": 1.77
@@ -184,7 +166,7 @@
       "name": "🔞RJAV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "style": {
         "type": "rect",
         "ratio": 1.77
@@ -207,7 +189,7 @@
       "name": "🔞JAVSB",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "ext": {
         "主页url": "https://jav.sb/",
         "直接播放": "1",
@@ -224,7 +206,7 @@
       "name": "🔞JAVDAY",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "ext": {
         "主页url": "https://javday.tv/",
         "直接播放": "1",
@@ -243,7 +225,7 @@
       "name": "🔞色最色",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "ext": {
         "主页url": "https://xn--zovv42dba.com/",
         "直接播放": "1",
@@ -257,7 +239,7 @@
       "name": "🔞亚瑟影库",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "ext": {
         "主页url": "https://www.yasetube.com/",
         "直接播放": "1",
@@ -271,7 +253,7 @@
       "name": "🔞222cuo",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "ext": {
         "主页url": "http://224cuo.com/",
         "直接播放": "1",
@@ -288,7 +270,7 @@
       "name": "🔞19麻豆",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "ext": {
         "站名": "19麻豆",
         "主页url": "https://19q.cc/",
@@ -309,7 +291,7 @@
       "name": "🔞18j.tv",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "ext": {
         "主页url": "https://18j.tv/",
         "直接播放": "1",
@@ -326,7 +308,7 @@
       "name": "🔞爱豆传媒",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "ext": {
         "主页url": "https://rourou.co/",
         "直接播放": "1",
@@ -344,7 +326,7 @@
       "name": "🔞麻豆",
       "type": 4,
       "api": "https://demobe.serv00.net/madou.php",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -416,7 +398,7 @@
         "type": "rect",
         "ratio": 1.485
       },
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/xc.jar"
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/xc.jar"
     },
     {
       "key": "AvTime",
@@ -451,7 +433,7 @@
       "name": "sexbj|XBPQ",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "style": {
         "type": "rect",
         "ratio": 1.5
@@ -469,7 +451,7 @@
       "name": "🔞肉視頻|XBPQ",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "ext": {
         "分类url": "https://rouvx2.xyz/t/{cateId}?order=createdAt&page={catePg}",
         "直接播放": "1",
@@ -484,7 +466,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/xc.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/xc.jar",
       "style": {
         "type": "rect",
         "ratio": 1.485
@@ -499,7 +481,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "api": "csp_XBPQ",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "style": {
         "ratio": 1.7
       },
@@ -515,7 +497,7 @@
       "name": "🔞ppp|fq",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "style": {
         "type": "rect",
         "ratio": 1.6
@@ -532,7 +514,7 @@
       "name": "🔞色花堂 🚀",
       "type": 3,
       "api": "csp_SeHuaTang",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/pg1.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/pg1.jar",
       "searchable": 0,
       "quickSearch": 1,
       "changeable": 1,
@@ -545,7 +527,7 @@
       "name": "🔞XOJav🚀",
       "type": 3,
       "api": "csp_Xojav",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/pg1.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/pg1.jar",
       "searchable": 0,
       "quickSearch": 1,
       "changeable": 1,
@@ -561,15 +543,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/njav.json",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar"
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/njav.json",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar"
     },
     {
       "key": "Zuise",
       "name": "最色",
       "type": 3,
       "api": "csp_Zuise",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/PG.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/PG.jar",
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 1,
@@ -586,7 +568,7 @@
       "filterable": 1,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "ext": {
         "语言": "中文",
         "请求头": "手机",
@@ -612,7 +594,7 @@
       "name": "🔞Hentai┃直连",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "style": {
         "type": "rect",
         "ratio": 1.485
@@ -686,7 +668,7 @@
         "type": "rect",
         "ratio": 1.485
       },
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "ext": {
         "数组": "class=\"col-6 col-sm-4 col-lg-3\">&&</div>",
         "图片": "src=\"&&\"",
@@ -735,7 +717,7 @@
       "key": "jable",
       "name": "🔞jable┃在线",
       "type": 3,
-      "jar": "https://2960.kstore.spachttps://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "https://2960.kstore.spachttps://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url= ",
       "changeable": 1,
       "searchable": 1,
@@ -776,7 +758,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$http://thze.cc/forum.php$$$proxy",
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$http://thze.cc/forum.php$$$proxy",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -792,7 +774,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$null$$$proxy",
+      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$null$$$proxy",
       "style": {
         "type": "rect",
         "ratio": 1.485
@@ -806,7 +788,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "style": {
         "type": "rect",
         "ratio": 1.485
@@ -865,7 +847,7 @@
       "name": "🔞U9A9┃磁力",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "style": {
         "type": "list"
       },
@@ -890,7 +872,7 @@
       "filterable": 1,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "style": {
         "type": "rect",
         "ratio": 1.485
@@ -932,7 +914,7 @@
       "name": "🔞玩偶┃在线",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://2960.kstore.spachttps://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "https://2960.kstore.spachttps://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "style": {
         "type": "rect",
         "ratio": 1.485
@@ -955,7 +937,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "api": "csp_XBPQ",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "style": {
         "ratio": 1.7
       },
@@ -971,7 +953,7 @@
       "name": "🔞糖心┃直连",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "style": {
         "ratio": 1.7
       },
@@ -992,7 +974,7 @@
       "name": "🔞小草┃直连",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -1013,7 +995,7 @@
       "name": "🔞天美┃直连",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "style": {
         "ratio": 1.485
       },
@@ -1032,7 +1014,7 @@
       "name": "🔞仓库┃科学",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "style": {
         "ratio": 1.485
       },
@@ -1062,7 +1044,7 @@
       "name": "🔞ppp┃科学",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
       "style": {
         "type": "rect",
         "ratio": 1.485
@@ -1614,7 +1596,7 @@
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/Yoursmile2.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/Yoursmile2.jar",
       "style": {
         "type": "rect",
         "ratio": 1.485
@@ -1633,7 +1615,7 @@
         "type": "rect",
         "ratio": 1.485
       },
-      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/91黑料.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/91黑料.jar",
       "ext": {
         "主页url": "https://kb17.oneoneno8cd345.xyz/one",
         "首页": "400",
