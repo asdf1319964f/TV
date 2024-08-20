@@ -1,5 +1,5 @@
 {
-	"spider":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/PG.jar",
+	"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/PG.jar",
 	"sites":[
 		{
 			"key":"Youtube",
@@ -11,8 +11,8 @@
 			"changeable": 0,
 			"timeout": 120,
 			"ext":{
-				"token":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json",
-				"json":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/youtube.json",
+				"token":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json",
+				"json":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/youtube.json",
 				"type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
 				"keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
 				"codecs":"",
@@ -32,7 +32,7 @@
 			"searchable": 0,
 			"changeable": 1,
 			"indexs":1,
-			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/douban.json"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/douban.json"
 		},
 		{
 			"key": "网盘配置",
@@ -41,7 +41,7 @@
 			"api": "csp_Config",
 			"searchable": 0,
 			"changeable": 0,
-			"ext":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json",
+			"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json",
 			"style": {
 				"type": "rect",
 				"ratio": 1.5
@@ -73,7 +73,7 @@
             "searchable": 1,    
             "changeable": 1
 	},
-      { "key": "金牌影视", "name": "金牌影视", "type":3,"api":"csp_XBPQ", "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar", "ext": {"请求头": "User-Agent$MOBILE_UA",
+      { "key": "金牌影视", "name": "金牌影视", "type":3,"api":"csp_XBPQ", "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar", "ext": {"请求头": "User-Agent$MOBILE_UA",
 "编码": "UTF-8","简介":"小林子为您剧情介绍:+简介:</div>&&</div></div>",
    "数组":"content-card\">&&</div></div></a></div></div>",
   
@@ -97,7 +97,7 @@
              "name":"🐛免费短剧",
              "type":3,
              "api":"csp_XBPQ",
-             "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
              "ext":{
              "搜索链接":"http://www.duanjutv.cc/vodsearch/{wd}----------{pg}---.html",
              "线路标题":"<h3*>&&</h3>",
@@ -117,7 +117,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "csp_XBPQ",
-            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
             "ext": {
                 "主页url": "https://www.777dywtv.com/",
                 "副标题": "pic-text text-right\">&&</b>",
@@ -132,8 +132,8 @@
                 "分类url": "https://www.777dywtv.com/whole/{cateId}_{area}___{year}___0_id_{cateId}.html"
              }
         },
-		{ "key": "桃子影院", "name": "桃子影院", "type":3,"api":"csp_XBPQ", "jar":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar", "ext": {"分类url":"https://ios.taozi007.com/show/{cateId}--------{catePg}---.html;;c"}},
-		{"key":"drpy_js_磁力熊","name":"磁力熊[js]|索引","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/js/cilixiongp.js","playerType":"1", "searchable":0, "quickSearch":0, "changeable":1,
+		{ "key": "桃子影院", "name": "桃子影院", "type":3,"api":"csp_XBPQ", "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar", "ext": {"分类url":"https://ios.taozi007.com/show/{cateId}--------{catePg}---.html;;c"}},
+		{"key":"drpy_js_磁力熊","name":"磁力熊[js]|索引","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/js/cilixiongp.js","playerType":"1", "searchable":0, "quickSearch":0, "changeable":1,
 			"indexs":1
 		},
   {
@@ -182,25 +182,25 @@
 				"cookie":""
 			}
 		},
-		{"key":"美剧迷","name":"美剧迷|网盘","type":3,"api":"csp_Meijumi", "quickSearch":1, "changeable":1, "filterable":1, "timeout":120,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1"},
-		{"key":"Libvio","name":"LIBVIO|网盘","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://www.libvio.fun/$$$null"},
-		{"key":"Bt0","name":"不太灵|磁力","type":3,"api":"csp_Bt0","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$null$$$noproxy$$$1"},
-		{"key":"Xpanpan","name":"小盘盘|网盘","type":3,"api":"csp_Xpanpan","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://xpanpan.site$$$noproxy$$$1",
+		{"key":"美剧迷","name":"美剧迷|网盘","type":3,"api":"csp_Meijumi", "quickSearch":1, "changeable":1, "filterable":1, "timeout":120,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1"},
+		{"key":"Libvio","name":"LIBVIO|网盘","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://www.libvio.fun/$$$null"},
+		{"key":"Bt0","name":"不太灵|磁力","type":3,"api":"csp_Bt0","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$null$$$noproxy$$$1"},
+		{"key":"Xpanpan","name":"小盘盘|网盘","type":3,"api":"csp_Xpanpan","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://xpanpan.site$$$noproxy$$$1",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
 			}
 		},
-		{"key":"Wo4k","name":"玩偶4K|磁力","type":3,"api":"csp_Wo4k","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://www.wo4k.com/$$$proxy$$$1$$$https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/wogg.json"},
-		{"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/wogg.json"},
-		{"key":"yydsys","name":"玩你老哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/wogg.json"},
-		{"key":"蜡笔网盘","name":"蜡笔|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/wogg.json"},
-		{"key":"Gaoqing","name":"中国高清网|网盘","type":3,"api":"csp_Gaoqing","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://gaoqing.la/$$$proxy$$$1"},
-		{"key":"Yinfans","name":"音范丝|磁力","type":3,"api":"csp_Gaoqing","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://www.yinfans.me/$$$proxy$$$1"},
-		{"key":"团长资源","name":"团长资源|网盘","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$noproxy$$$1"},
-		{"key":"Moli","name":"HDmoli|网盘","type":3,"api":"csp_Moli","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://www.hdmoli.pro/$$$proxy$$$1$$$https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/moli.json"},
-		{"key":"Ppxzy","name":"皮皮虾|网盘","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"},
-		{"key":"校长影视","name":"校长影视|网盘","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"},
+		{"key":"Wo4k","name":"玩偶4K|磁力","type":3,"api":"csp_Wo4k","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://www.wo4k.com/$$$proxy$$$1$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/wogg.json"},
+		{"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/wogg.json"},
+		{"key":"yydsys","name":"玩你老哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/wogg.json"},
+		{"key":"蜡笔网盘","name":"蜡笔|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://duopan.fun/$$$noproxy$$$1$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/wogg.json"},
+		{"key":"Gaoqing","name":"中国高清网|网盘","type":3,"api":"csp_Gaoqing","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://gaoqing.la/$$$proxy$$$1"},
+		{"key":"Yinfans","name":"音范丝|磁力","type":3,"api":"csp_Gaoqing","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://www.yinfans.me/$$$proxy$$$1"},
+		{"key":"团长资源","name":"团长资源|网盘","type":3,"api":"csp_TZFile", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$noproxy$$$1"},
+		{"key":"Moli","name":"HDmoli|网盘","type":3,"api":"csp_Moli","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://www.hdmoli.pro/$$$proxy$$$1$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/moli.json"},
+		{"key":"Ppxzy","name":"皮皮虾|网盘","type":3,"api":"csp_Ppxzy", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"},
+		{"key":"校长影视","name":"校长影视|网盘","type":3,"api":"csp_XiaoZhang", "quickSearch":1, "changeable":1, "filterable":1, "timeout":60,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"},
 		{
 			"key": "Bdys_spider",
 			"name": "哔滴┃磁力",
@@ -211,16 +211,16 @@
 			"quickSearch": 1,
 			"searchable": 1,
 			"timeout":60,
-			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://www.yjys01.com/$$$proxy$$$1"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://www.yjys01.com/$$$proxy$$$1"
 		},
-		{"key":"YunPan","name":"云盘资源|网盘","type":3,"api":"csp_YunPan","timeout":60, "ext":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$null$$$proxy$$$1"},
-		{"key":"Panta","name":"盘Ta|网盘","type":3,"api":"csp_Panta","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1",
+		{"key":"YunPan","name":"云盘资源|网盘","type":3,"api":"csp_YunPan","timeout":60, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$null$$$proxy$$$1"},
+		{"key":"Panta","name":"盘Ta|网盘","type":3,"api":"csp_Panta","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
 			}
 		},
-		{"key":"XBPQ_黑狐影院","name":"黑狐影院|XBPQ","type":3,"api":"csp_XBPQ", "jar":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
+		{"key":"XBPQ_黑狐影院","name":"黑狐影院|XBPQ","type":3,"api":"csp_XBPQ", "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
 			"ext": {
 				"站名": "黑狐影院",
 				"主页url": "http://fagmn.com",
@@ -257,7 +257,7 @@
 		{
 			"key":"XBPQ_电影先生",
 			"name": "电影先生|XBPQ",
-			"jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
+			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"ext": {
@@ -275,7 +275,7 @@
 				"分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi"
 			}
 		},
-		{"key": "XBPQ_麻衣影院","name":"麻衣影院|XBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
+		{"key": "XBPQ_麻衣影院","name":"麻衣影院|XBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
 			"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"}
 		},
 		{
@@ -283,7 +283,7 @@
 			"name": "🧲 4小白磁力🧲 |XBPQ",
 			"type": 3,
 			"api": "csp_XBPQ",			
-			"jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
+			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar",
 			"ext": {
 				"主页url": "https://www.xbw20.com/",
 				"编码": "gb2312",
@@ -306,8 +306,8 @@
 			"searchable":1,
 			"quickSearch":1,
 			"filterable":1,
-			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/bttt.json",
-			"jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/bttt.json",
+			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar"
 		},
 		{
       "key": "HH",
@@ -364,7 +364,7 @@
 				"播放数组": "下载地址</h2>&&</ul>[不包含:网盘]",
 				"播放列表":"<ul>&&</div>[包含:magnet]"
 			},
-			"jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar"
+			"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/XBPQ.jar"
 		},
 		{
 			"key": "NanGua",
@@ -383,7 +383,7 @@
 			"searchable": 1,
 			"changeable": 1,
 			"timeout": 60,
-			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://www.66ss.org$$$null$$$1"
 		},
 		{
 			"key": "天天",
@@ -406,7 +406,7 @@
 			"api": "csp_Jianpian",
 			"searchable": 1,
 			"changeable": 1,
-			"ext": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/jianpian.json$$$1",
+			"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/jianpian.json$$$1",
 			"timeout":60
 		},
 		{
@@ -452,8 +452,8 @@
 			"searchable": 1,
 			"quickSearch": 1
 		},
-		{"key":"drpy_js_MP4US","name":"MP4电影[js]|磁","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/js/mp4us.js", "quickSearch":1, "changeable":1, "timeout":60},
-		{"key":"4KHDR","name":"4KHDR|网盘","type":3,"api":"csp_FourKHDR","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/4khdr.txt$$$1",
+		{"key":"drpy_js_MP4US","name":"MP4电影[js]|磁","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/js/mp4us.js", "quickSearch":1, "changeable":1, "timeout":60},
+		{"key":"4KHDR","name":"4KHDR|网盘","type":3,"api":"csp_FourKHDR","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/4khdr.txt$$$1",
 			"style": {
 				"type": "list",
 				"ratio": 1.1
@@ -467,7 +467,7 @@
 			"searchable": 1,
 			"changeable": 0
 		},
-		{"key":"drpy_js_酷吧","name":"酷吧[js]|磁","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/js/kuba.js", "quickSearch":1, "changeable":1, "timeout":60},
+		{"key":"drpy_js_酷吧","name":"酷吧[js]|磁","type":3,"api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/js/kuba.js", "quickSearch":1, "changeable":1, "timeout":60},
 		{"key":"BLSGod","name":"BLSGod|磁","type":3,"api":"csp_BLSGod","changeable":1, "timeout":60},
 		{"key":"Xunlei8","name":"Xunlei8|磁","type":3,"api":"csp_Xunlei8","changeable":1, "timeout":60},
 		{"key":"SeedHub","name":"SeedHub|磁","type":3,"api":"csp_SeedHub","changeable":1, "timeout":60},
@@ -486,7 +486,7 @@
            "name": "萌米",
            "type": 3,
            "api": "csp_AppTT",
-           "jar": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/gd5ic01b6d4922692401eac6018178d033d06",
+           "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/gd5ic01b6d4922692401eac6018178d033d06",
            "timeout": 15,
            "playerType": 1,
            "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
@@ -573,7 +573,7 @@
 			"searchable": 1,
 			"changeable": 0
 		},
-		{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30, "ext":"https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json"},
+		{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/tokenm.json"},
 		{
 			"key": "應用商店",
 			"name": "應用商店",
@@ -605,7 +605,7 @@
 			{
 				"name": "live.ipv6.local",
 				"type": 0,
-				"url": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/live.ipv6.txt",
+				"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/live.ipv6.txt",
 				
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
@@ -624,7 +624,7 @@
 				"name": "YTLive",
 				"type": 0,
 				
-				"url": "https://ghproxy.net/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/yo21.txt"
+				"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/yo21.txt"
 			},
 			{
 				"name": "直播",
