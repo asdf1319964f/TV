@@ -31,6 +31,24 @@
       }
     },
     {
+            "key": "sqhub",
+            "name": "sqhub",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+            "ext": {
+                "主页url": "https://sex166.net/video.html",
+                 "直接播放": "1",
+                  //  "数组": "img-box cover-md\"&&<p class=\"sub-title\">",
+                "标题": ">&&</a></h6>",
+                "图片": "data-src=\"&&\"",
+                "链接": "href=\"&&\"",
+                 "分类": "会所探花$1#乱伦换妻$2#中文字幕$3#欧美巨根$4#黑料吃瓜$5#东南亚片$6#福利姬$7#港台三级$8#日韩三级$9#欧美三级$10#无码AV$11#成人综艺$12#国产精选$13#91制片厂$14",
+                "分类url": "https://sex166.net/video-cid/{cateId}-page-{catePg}.html"
+                //"分类": " https://sex166.net/video-cid{cateId}{catePg}.html"
+                }
+                },
+    {
         "key": "AV影院",
         "name": "AV影院",
         "type": 3,
