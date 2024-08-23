@@ -30,6 +30,23 @@
         "ratio": 1.5
       }
     },
+            "key": "索尼采集",
+            "name": "索尼采集",
+            "type": 0,
+            "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml",
+            "playerType": 1,
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "伦理",
+                "港台三级",
+                "韩国伦理",
+                "西方伦理",
+                "日本伦理",
+                "两性课堂",
+                "写真热舞"
+            ]
+        },
     {
             "key": "✨R撸巴✨",
             "name": "✨R撸吧✨",
