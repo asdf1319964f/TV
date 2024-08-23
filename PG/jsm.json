@@ -34,6 +34,7 @@
             "key": "索尼采集",
             "name": "索尼采集",
             "type": 0,
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
             "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml",
             "playerType": 1,
             "searchable": 1,
