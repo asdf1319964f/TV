@@ -49,6 +49,16 @@
                 "写真热舞"
             ]
         },
+     {
+            "key": "Miss",
+            "name": "Miss",
+            "type": 3,
+            "api": "csp_Miss",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60
+        },
     {"key": "魔都","name": "🥇💢魔都","type": 0,"api": "https://caiji.moduapi.cc/api.php/provide/vod/at/xml/","searchable": 0,"changeable": 0,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫","动漫电影","里番动漫"]},
     {
             "key": "✨R撸巴✨",
