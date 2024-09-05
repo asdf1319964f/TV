@@ -51,7 +51,8 @@
              "key": "红茶影视VIP",      
              "name": "红茶XBPQ",      
              "type": 3,      
-             "api": "csp_XBPQ",      
+             "api": "csp_XBPQ",
+                          "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",      
              "ext": 
            {
              "分类      url":"https://lvcha.asia/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",        
