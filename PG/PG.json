@@ -46,6 +46,8 @@
 				"type": "rect",
 				"ratio": 1.5
 			}
+   {"key":"小白菜","name":"小白菜☪电影","type":3,"api":"csp_XBPQ","searchable": 1,"
+             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",ext":{"播放标题":"📹+>&&</a>","分类url":"https://www.xbcdy.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类数组":"*\">&&</li>[不包含:部#最新#最热#]","分类标题":">&&</a>"}},
 		},
             	{"key": "雨滴",
             "name": "雨滴",
