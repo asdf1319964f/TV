@@ -47,17 +47,18 @@
 				"ratio": 1.5
 			}
 		},
-            {      
-             "key": "红茶影视VIP",      
-             "name": "红茶XBPQ",      
-             "type": 3,      
-             "api": "csp_XBPQ",
-                          "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",      
-             "ext": 
-           {
-             "分类      url":"https://lvcha.asia/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",        
-"分类":"电影$1#电视剧$2#动漫$3#综艺$4"}
-},
+            	{"key": "雨滴",
+            "name": "雨滴",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./lib/XBPQ.jar",
+            "ext": {
+    "作者":"快乐雨滴",
+    "分类url":"https://lvcha.asia/index.php/vod/show/id/{cateId}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
+    "分类":"电影$1#电视剧$2#综艺$3#动漫$4#伦理$20",
+    "搜索url":"https://lvcha.asia/index.php/vod/search.html?wd={wd}"
+}
+        },
             {
              "key": "短剧",
              "name": "短剧影视",
