@@ -46,6 +46,9 @@
 				"type": "rect",
 				"ratio": 1.5
 			}
+   },
+   
+{"key":"海兔影院","name":"🐇海兔┃影院","type":3,"api":"csp_XBPQ","ext":{"发布地址":"https://www.haitu.site/","简介":"video-info-content vod_content\">&&</span>","线路数组":"module-tab-item tab-item&&</div>","线路标题":"<span>&&</span>","跳转播放链接":"var player_*\"url\":\"&&\"","搜索数组":"","搜索url":"https://www.haituu.tv/vodsearch/{wd}-------------.html","分类url":"https://www.haituu.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-------{year}.html[https://www.haituu.tv/vodtype/{cateId}.html]","分类":"电视剧$2#电影$1#综艺$3#动漫$4#伦理片$21"}},
    {"key":"小白菜","name":"小白菜☪电影","type":3,"api":"csp_XBPQ","searchable": 1,"
              "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",ext":{"播放标题":"📹+>&&</a>","分类url":"https://www.xbcdy.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类数组":"*\">&&</li>[不包含:部#最新#最热#]","分类标题":">&&</a>"}},
 		},
