@@ -47,7 +47,22 @@
 				"ratio": 1.5
 			}
    },
-   
+             {
+            "key": "人人",
+            "name": "👑人人影视👑",
+            "type": 3,          
+            "changeable": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://www.renren.pro/list/{cateId}?page={catePg}",
+                "搜索url": "/search?wd={wd}",
+				"搜索模式": "1",
+                "分类": "影库$all"
+            }
+        },
             {
              "key": "短剧",
              "name": "短剧影视",
