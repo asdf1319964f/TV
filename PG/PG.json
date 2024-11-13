@@ -92,6 +92,22 @@
                 "分类": "穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#玄幻$xuanhuan#言情$yanqing"
             }
         },
+        {
+            "key": "次元栈",
+            "name": "次元栈",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "手机",
+                "主页url": "http://www.ecydm.top/",
+                "数组": " class=\"hl-item-thumb hl-lazy\" &&</a",
+                "分类url": "http://www.ecydm.top/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+                "分类": "动漫$4#电影$1#连续剧$2#综艺$3#国产动漫$28#日韩动漫$29#港台动漫$30#欧美动漫$31#动作片$6#喜剧片$7#爱情片$8#科幻片$9#剧情片$11#战争片$12#奇幻片$20#悬疑片$21#国产剧$13#港台剧$14#欧美剧$16#大陆综艺$24#日韩综艺$25#港台综艺$26#欧美综艺$27"
+            }
+        },
 	{
             "key": "采集集合",
             "name": "采集集合",
